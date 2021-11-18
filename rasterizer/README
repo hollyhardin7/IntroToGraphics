@@ -1,0 +1,4 @@
+Must have VTK 9.0.3 installed
+Must have CMake 3.21.1 installed
+Must have FFMPEG 4.4_2 installed
+Program can be run by executing command: ./run on Unix/Linux
